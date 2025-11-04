@@ -1,4 +1,3 @@
-[![Projects][projects-shield]][projects-url]
 # Lucas62944
 * Bem Vindos a minha Conta do GitHub
 # Meus Jogos Preferidos
