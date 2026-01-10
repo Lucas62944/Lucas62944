@@ -24,5 +24,3 @@
 # My questions about FNF on GameBanana
 * [Convert Chart](https://gamebanana.com/questions/78271)
 * [Dodge](https://gamebanana.com/questions/79808)
-## GitHub Stats:
-![Til's Total Wakatime](https://wakatime.com/badge/user/adbd4bf6-3415-40a5-9d7a-f00f5ba43ce5.svg)
