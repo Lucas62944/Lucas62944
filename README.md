@@ -10,7 +10,7 @@
 * Sonic the Hedgehog
 * Friday The 13th: The Game
 # I code in:
- [![Haxe,Lua](https://skillicons.dev/icons?i=haxe,lua&theme=dark)](https://skillicons.dev)
+ [![haxeflixel,Lua](https://skillicons.dev/icons?i=haxeflixel,lua&theme=dark)](https://skillicons.dev)
 # My Social Networks
 * [Instagram](instagram.com/lucas.smbm)
 * [YouTube](https://www.youtube.com/@SanchesMello)
