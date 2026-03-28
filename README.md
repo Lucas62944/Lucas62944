@@ -21,3 +21,5 @@
 * [PibbyRemaster](https://gamebanana.com/mods/547998)
 * [Chart-Convert](https://gamebanana.com/questions/78271)
 * [Dodge](https://gamebanana.com/questions/79808)
+
+![Lucas62944 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
