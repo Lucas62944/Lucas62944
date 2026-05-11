@@ -1,5 +1,5 @@
-### Welcome to my GitHub account
-## About Me
+### Welcome to my GitHub Account
+# About Me
 - 17 yo
 - I'm a really cool guy,
 -  I'm passionate about Friday Night Funkin' I know more or less everything about him.
