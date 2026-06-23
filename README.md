@@ -1,4 +1,4 @@
-### Welcome to my GitHub Account
+### Welcome to My GitHub Account
 # About Me
 - 17 yo
 - I'm a really cool guy,
