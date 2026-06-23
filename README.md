@@ -2,26 +2,24 @@
 # About Me
 - 17 yo
 - I'm a really cool guy,
--  I'm passionate about Friday Night Funkin' I know more or less everything about him.
--  I am currently living in Brazil (Jundiaí) I would like to visit the United States (USA) and Canada.
+- I'm passionate about Friday Night Funkin' I know more or less everything about him.
+- I am currently living in Brazil I would like to visit the United States (USA) and Canada.
 # My Favorite Games
-* [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
-* Fortinte
-* Sonic the Hedgehog
-* Friday The 13th: The Game
-# I code in:
+- [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
+- Fortinte
+- Sonic the Hedgehog
+- Friday The 13th: The Game
+# I Code in:
  ![haxeflixel,Lua](https://skillicons.dev/icons?i=haxeflixel,lua&theme=dark)
 # My Social Networks
-* [Instagram](instagram.com/lucas.smbm)
-* [YouTube](https://www.youtube.com/@SanchesMello)
+- [Instagram](instagram.com/lucas.smbm)
+- [YouTube](https://www.youtube.com/@SanchesMello)
 # My Friday Night Funkin' mods and My Questions
-* [Pico Engine](https://github.com/Pico-Engine-Team/FNF-Pico-Engine)
-* [Pico Engine Source-Code OLD](https://github.com/Pico-Engine-Team/FNF-Pico-Engine-Source-Code-old)
-* [Vs AGOTI](https://gamebanana.com/wips/96146)
-* [Pitro Vs Hater Port](https://gamebanana.com/mods/609613)
-* [PibbyRemaster](https://gamebanana.com/mods/547998)
-* [Chart-Convert](https://gamebanana.com/questions/78271)
-* [Dodge](https://gamebanana.com/questions/79808)
-
-# GihHub Stats:
-![Lucas62944 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+- [FNF Pico Engine](https://github.com/Pico-Engine-Team/FNF-Pico-Engine)
+- [FNF Pico Engine Source OLD](https://github.com/Pico-Engine-Team/FNF-Pico-Engine-Source-Code-old)
+- [FNF Vs Agoti Port](https://gamebanana.com/mods/639704)
+- [FNF Pitro Vs Hater POrt](https://gamebanana.com/mods/609613)
+- [FNF Pibby Remaster](https://gamebanana.com/mods/547998)
+- [Chart Convert](https://gamebanana.com/questions/78271)
+- [Dodge Note Mechanic](https://gamebanana.com/questions/79808)
+---------
