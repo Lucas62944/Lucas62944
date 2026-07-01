@@ -14,7 +14,7 @@
 # My Social Networks
 - [Instagram](instagram.com/lucas.smbm)
 - [YouTube](https://www.youtube.com/@SanchesMello)
-# My Friday Night Funkin' mods and my questions about Funkin' programming
+# My Friday Night Funkin' Mods and My Questions About Funkin' Programming
 - [FNF My Mod](https://github.com/Pico-Engine-Team/FNF-Pico-Engine)
 - [FNF Vs Agoti Port](https://gamebanana.com/mods/639704)
 - [FNF Pitro Vs Hater POrt](https://gamebanana.com/mods/609613)
